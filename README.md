@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Mateus-Felipe-Ribeiro
-- 👀 I’m interested in ....
 - 🌱 I’m currently learning C# and Angular
-- 💞️ I’m looking to collaborate on web app (angular)
 - 📫 How to reach: insta @mat3.felip3
 
 
